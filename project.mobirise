@@ -715,7 +715,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-30-at-12.36.19-720x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-30-at-12.36.19-1-800x533.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
@@ -725,11 +725,11 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<br><br><br><br><br>Собственное производство&nbsp;<br><br>",
+                "title": "<br><br><br><br>Рыболовные лодки<br>высочайшего качества",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"index.html#features18-8\" data-toolbar=\"-mbrBtnMove\">МОДЕЛИ ЛОДОК</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">О НАС</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"index.html#features18-8\" data-toolbar=\"-mbrBtnMove\">МОДЕЛИ ЛОДОК</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">О НАС<br></a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-30-at-12.36.15-1-1280x893.jpg",
@@ -749,7 +749,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"index.html#features18-8\" data-toolbar=\"-mbrBtnMove\">МОДЕЛИ ЛОДОК</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">О НАС</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-30-at-12.36.19-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-30-at-12.36.19-720x560.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
@@ -759,11 +759,11 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<br><br><br><br>Рыболовные лодки<br>высочайшего качества",
+                "title": "<br><br><br><br><br>Собственное производство&nbsp;<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"index.html#features18-8\" data-toolbar=\"-mbrBtnMove\">МОДЕЛИ ЛОДОК</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">О НАС<br></a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"index.html#features18-8\" data-toolbar=\"-mbrBtnMove\">МОДЕЛИ ЛОДОК</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">О НАС</a>"
               }
             ]
           }
