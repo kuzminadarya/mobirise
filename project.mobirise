@@ -711,7 +711,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": 4000,
+            "slides__autoplayInterval": "5000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -733,7 +733,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-30-at-12.36.15-1-1280x893.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -750,7 +750,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-30-at-12.36.19-720x560.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
